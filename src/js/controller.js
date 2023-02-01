@@ -117,7 +117,13 @@
 
     git add -A - sa sax file-r@ darnum en pahoci mas.
     git add index.html sa miayn es file-na dardnum mas.
-    
+
+    git commit -m 'message' - menq amen popoxutyun aneluc heto peka hastatenq
+    ev 'message'-grenq inch popoxutyuna texi unecel.
+
+    git reset --hard HEAD - Ete ka 'Modified' filer es hraman@ eta talis sax 
+                            gracner@, ev 'Modified' el chi linum.
+                            
 */
 /////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////
