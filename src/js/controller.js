@@ -133,7 +133,12 @@
     :q - sranov pakvuma 'log'-@ console-um. 'Ctrl+C' poxaren.
 
     git branch - cuyca talis qani hat kan.
-    git branch 'branchName'
+    git branch 'branchName' - stexcuma nor branch.
+
+    Ete mi tex popoxutyun anenq myus 'branch'-i mot chi ereva, dra hamar heto 
+    petka 'merge' anel.
+
+    
 */
 /////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////
