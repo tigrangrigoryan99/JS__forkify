@@ -123,6 +123,12 @@
 
     git reset --hard HEAD - Ete ka 'Modified' filer es hraman@ eta talis sax 
                             gracner@, ev 'Modified' el chi linum.
+
+    git remote add origin 'https://github.com...' - sranov kpcnum enq mer git-um
+                                                    sarqac rep-in.
+    git push origin master - sranov masteri mej exac@ lcnum enq 'origin'-i mej.
+
+    Urish 'branch' kpcnelu hamar anum enq 'git push origin new-feature'.
                             
     OKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKk
 
