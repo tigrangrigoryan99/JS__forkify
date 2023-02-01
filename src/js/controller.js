@@ -124,6 +124,16 @@
     git reset --hard HEAD - Ete ka 'Modified' filer es hraman@ eta talis sax 
                             gracner@, ev 'Modified' el chi linum.
                             
+    git log - beruma sax 'commit' exac popoxutyunner@.
+    git reset --hard 'id' - veradarnuma en id-in vorin cankanum es, ev ete 
+                            dranic heto popoxutyuna arvel chexarkvuma.
+    Bayc espisi popoxutyun@ vtangavora, dra hamar ete uzum enq obshi project-um
+    popoxutyunner katarenq stexcum enq 'branch'(masnachyux).
+
+    :q - sranov pakvuma 'log'-@ console-um. 'Ctrl+C' poxaren.
+
+    git branch - cuyca talis qani hat kan.
+    git branch 'branchName'
 */
 /////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////
