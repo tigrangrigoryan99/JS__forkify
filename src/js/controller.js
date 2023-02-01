@@ -130,7 +130,6 @@
 
     Urish 'branch' kpcnelu hamar anum enq 'git push origin new-feature'.
                             
-    OKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKk
 
 
     Voobshe misht sax irakan code-n pahum enq 'master' branc-um, popoxutyunner anum en
