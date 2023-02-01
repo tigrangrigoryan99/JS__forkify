@@ -138,6 +138,10 @@
     Ete mi tex popoxutyun anenq myus 'branch'-i mot chi ereva, dra hamar heto 
     petka 'merge' anel.
 
+    git merge 'branchName' - petka linen en 'branch'-um vori mej uzum enq avelacnel
+                             popoxutyunner@, ev grel en 'branch'-i anun@ voric petka 
+                             ga popoxutyun@.
+
     
 */
 /////////////////////////////////////////////////////////////////////////////////////////////
