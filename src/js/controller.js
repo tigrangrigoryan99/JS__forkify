@@ -125,6 +125,12 @@
                             gracner@, ev 'Modified' el chi linum.
                             
     OKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKk
+
+
+    Voobshe misht sax irakan code-n pahum enq 'master' branc-um, popoxutyunner anum en
+    tarber 'branche'-nerum heto 'merge' anum master-in.
+
+    https://education.github.com/git-cheat-sheet-education.pdf sax 'git'-i command-ner@ kan.
 */
 /////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////
